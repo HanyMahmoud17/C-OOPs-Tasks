@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\bin\Debug\net6.0\IWidgetTaskTwo.exe
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\bin\Debug\net6.0\IWidgetTaskTwo.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\bin\Debug\net6.0\IWidgetTaskTwo.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\bin\Debug\net6.0\IWidgetTaskTwo.dll
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\bin\Debug\net6.0\IWidgetTaskTwo.pdb
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.dll
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\refint\IWidgetTaskTwo.dll
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.pdb
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\IWidgetTaskTwo.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\IWidget\obj\Debug\net6.0\ref\IWidgetTaskTwo.dll

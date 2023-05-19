@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\bin\Debug\net6.0\taskBArray.exe
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\bin\Debug\net6.0\taskBArray.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\bin\Debug\net6.0\taskBArray.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\bin\Debug\net6.0\taskBArray.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\bin\Debug\net6.0\taskBArray.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\refint\taskBArray.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\taskBArray.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\taskBArray\obj\Debug\net6.0\ref\taskBArray.dll

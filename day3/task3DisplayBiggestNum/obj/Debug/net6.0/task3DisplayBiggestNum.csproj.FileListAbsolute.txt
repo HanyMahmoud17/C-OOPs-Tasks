@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\bin\Debug\net6.0\task3DisplayBiggestNum.exe
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\bin\Debug\net6.0\task3DisplayBiggestNum.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\bin\Debug\net6.0\task3DisplayBiggestNum.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\bin\Debug\net6.0\task3DisplayBiggestNum.dll
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\bin\Debug\net6.0\task3DisplayBiggestNum.pdb
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.dll
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\refint\task3DisplayBiggestNum.dll
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.pdb
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\task3DisplayBiggestNum.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\task3DisplayBiggestNum\obj\Debug\net6.0\ref\task3DisplayBiggestNum.dll

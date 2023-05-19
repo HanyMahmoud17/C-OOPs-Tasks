@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\bin\Debug\net6.0\factorialTask.exe
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\bin\Debug\net6.0\factorialTask.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\bin\Debug\net6.0\factorialTask.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\bin\Debug\net6.0\factorialTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\bin\Debug\net6.0\factorialTask.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\refint\factorialTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\factorialTask.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\factorialTask\obj\Debug\net6.0\ref\factorialTask.dll

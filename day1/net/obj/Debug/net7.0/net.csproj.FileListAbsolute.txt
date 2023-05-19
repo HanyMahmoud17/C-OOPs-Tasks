@@ -1,0 +1,45 @@
+C:\Users\LAPTOP WORLD\Desktop\net\bin\Debug\net7.0\net.exe
+C:\Users\LAPTOP WORLD\Desktop\net\bin\Debug\net7.0\net.deps.json
+C:\Users\LAPTOP WORLD\Desktop\net\bin\Debug\net7.0\net.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\net\bin\Debug\net7.0\net.dll
+C:\Users\LAPTOP WORLD\Desktop\net\bin\Debug\net7.0\net.pdb
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.dll
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\refint\net.dll
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.pdb
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\net.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\net\obj\Debug\net7.0\ref\net.dll
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\bin\Debug\net7.0\net.exe
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\bin\Debug\net7.0\net.deps.json
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\bin\Debug\net7.0\net.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\bin\Debug\net7.0\net.dll
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\bin\Debug\net7.0\net.pdb
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.dll
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\refint\net.dll
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.pdb
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\net.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\New folder\net\obj\Debug\net7.0\ref\net.dll
+C:\Users\LAPTOP WORLD\Desktop\day1\net\bin\Debug\net7.0\net.exe
+C:\Users\LAPTOP WORLD\Desktop\day1\net\bin\Debug\net7.0\net.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day1\net\bin\Debug\net7.0\net.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day1\net\bin\Debug\net7.0\net.dll
+C:\Users\LAPTOP WORLD\Desktop\day1\net\bin\Debug\net7.0\net.pdb
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.dll
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\refint\net.dll
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.pdb
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\net.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day1\net\obj\Debug\net7.0\ref\net.dll

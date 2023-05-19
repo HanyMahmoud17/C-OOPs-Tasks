@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\bin\Debug\net6.0\task4Date.exe
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\bin\Debug\net6.0\task4Date.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\bin\Debug\net6.0\task4Date.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\bin\Debug\net6.0\task4Date.dll
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\bin\Debug\net6.0\task4Date.pdb
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.dll
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\refint\task4Date.dll
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.pdb
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\task4Date.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task4Date\obj\Debug\net6.0\ref\task4Date.dll

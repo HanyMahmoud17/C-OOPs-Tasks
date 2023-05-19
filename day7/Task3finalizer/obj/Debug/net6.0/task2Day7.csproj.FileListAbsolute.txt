@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\bin\Debug\net6.0\task2Day7.exe
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\bin\Debug\net6.0\task2Day7.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\bin\Debug\net6.0\task2Day7.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\bin\Debug\net6.0\task2Day7.dll
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\bin\Debug\net6.0\task2Day7.pdb
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.dll
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\refint\task2Day7.dll
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.pdb
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\task2Day7.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day7\task2Day7\obj\Debug\net6.0\ref\task2Day7.dll

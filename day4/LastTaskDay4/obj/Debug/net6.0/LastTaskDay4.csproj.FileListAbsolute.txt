@@ -1,0 +1,17 @@
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\bin\Debug\net6.0\LastTaskDay4.exe
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\bin\Debug\net6.0\LastTaskDay4.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\bin\Debug\net6.0\LastTaskDay4.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\bin\Debug\net6.0\LastTaskDay4.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\bin\Debug\net6.0\LastTaskDay4.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\bin\Debug\net6.0\ITILogger.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.csproj.CopyComplete
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\refint\LastTaskDay4.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\LastTaskDay4.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\LastTaskDay4\obj\Debug\net6.0\ref\LastTaskDay4.dll

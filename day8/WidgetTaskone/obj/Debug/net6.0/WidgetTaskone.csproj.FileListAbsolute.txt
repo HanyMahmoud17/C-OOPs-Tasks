@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\bin\Debug\net6.0\WidgetTaskone.exe
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\bin\Debug\net6.0\WidgetTaskone.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\bin\Debug\net6.0\WidgetTaskone.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\bin\Debug\net6.0\WidgetTaskone.dll
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\bin\Debug\net6.0\WidgetTaskone.pdb
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.dll
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\refint\WidgetTaskone.dll
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.pdb
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\WidgetTaskone.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day8\WidgetTaskone\obj\Debug\net6.0\ref\WidgetTaskone.dll

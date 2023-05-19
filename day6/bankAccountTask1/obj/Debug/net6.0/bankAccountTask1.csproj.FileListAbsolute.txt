@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\bin\Debug\net6.0\bankAccountTask1.exe
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\bin\Debug\net6.0\bankAccountTask1.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\bin\Debug\net6.0\bankAccountTask1.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\bin\Debug\net6.0\bankAccountTask1.dll
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\bin\Debug\net6.0\bankAccountTask1.pdb
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.dll
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\refint\bankAccountTask1.dll
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.pdb
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\bankAccountTask1.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day6\bankAccountTask1\obj\Debug\net6.0\ref\bankAccountTask1.dll

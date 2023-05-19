@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\bin\Debug\net6.0\task2OfMaterix.exe
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\bin\Debug\net6.0\task2OfMaterix.deps.json
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\bin\Debug\net6.0\task2OfMaterix.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\bin\Debug\net6.0\task2OfMaterix.dll
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\bin\Debug\net6.0\task2OfMaterix.pdb
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.dll
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\refint\task2OfMaterix.dll
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.pdb
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\task2OfMaterix.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\testing\task2OfMaterix\obj\Debug\net6.0\ref\task2OfMaterix.dll

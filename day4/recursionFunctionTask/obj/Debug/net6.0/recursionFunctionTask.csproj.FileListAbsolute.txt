@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\bin\Debug\net6.0\recursionFunctionTask.exe
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\bin\Debug\net6.0\recursionFunctionTask.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\bin\Debug\net6.0\recursionFunctionTask.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\bin\Debug\net6.0\recursionFunctionTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\bin\Debug\net6.0\recursionFunctionTask.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\refint\recursionFunctionTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\recursionFunctionTask.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\recursionFunctionTask\obj\Debug\net6.0\ref\recursionFunctionTask.dll

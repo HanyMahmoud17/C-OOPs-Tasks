@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\bin\Debug\net6.0\swapTask.exe
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\bin\Debug\net6.0\swapTask.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\bin\Debug\net6.0\swapTask.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\bin\Debug\net6.0\swapTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\bin\Debug\net6.0\swapTask.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\refint\swapTask.dll
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.pdb
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\swapTask.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day4\swapTask\obj\Debug\net6.0\ref\swapTask.dll

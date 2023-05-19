@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\bin\Debug\net6.0\dynamicAccountinInputFromUser.exe
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\bin\Debug\net6.0\dynamicAccountinInputFromUser.deps.json
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\bin\Debug\net6.0\dynamicAccountinInputFromUser.runtimeconfig.json
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\bin\Debug\net6.0\dynamicAccountinInputFromUser.dll
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\bin\Debug\net6.0\dynamicAccountinInputFromUser.pdb
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.dll
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\refint\dynamicAccountinInputFromUser.dll
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.pdb
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\dynamicAccountinInputFromUser.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\Desktop\day3\dynamicAccountinInputFromUser\obj\Debug\net6.0\ref\dynamicAccountinInputFromUser.dll
